@@ -1,0 +1,29 @@
+[
+  { 
+    "arguments": [
+      "cc", 
+      "-c",
+      "main.c"
+    ],
+    "directory": "C:\\Users\\pugno\\source\\repos\\LspClientSample\\LspClientSample\\C",
+    "file": "main.c"
+  },
+  {
+    "arguments": [
+      "cc",
+      "-c",
+      "message.c"
+    ],
+    "directory": "C:\\Users\\pugno\\source\\repos\\LspClientSample\\LspClientSample\\C",
+    "file": "message.c"
+  },
+  {
+    "arguments": [
+      "cc",
+      "-c",
+      "type.c"
+    ],
+    "directory": "C:\\Users\\pugno\\source\\repos\\LspClientSample\\LspClientSample\\C",
+    "file": "type.c"
+  }
+]
