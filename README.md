@@ -1,0 +1,2 @@
+# LspClientSample
+OmniSharp.Extensions.LanguageServerを使ったLSP Clientのサンプル
